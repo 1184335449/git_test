@@ -1,5 +1,7 @@
 ﻿#include "mainobject.h"
 #include <QDebug>
+int mainobject_cpp = 1;
+
 MainObject::MainObject(QObject *parent) : QObject(parent)
 {
     ModuleInit();
