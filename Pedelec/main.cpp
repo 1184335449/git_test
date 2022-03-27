@@ -1,7 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include "mainobject.h"
-int main_cpp = 1;
+int main_cpp = 2;
 
 static MainObject* mainobject = nullptr;
 int main(int argc, char *argv[])
