@@ -1,6 +1,8 @@
 ﻿#include "mainobject.h"
 #include <QDebug>
 int mainobject_cpp = 1;
+int test = 2;
+int test_2 = 3;
 
 MainObject::MainObject(QObject *parent) : QObject(parent)
 {
