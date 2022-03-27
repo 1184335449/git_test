@@ -4,6 +4,7 @@
 int main_cpp = 2;
 int d = 0;
 
+
 static MainObject* mainobject = nullptr;
 int main(int argc, char *argv[])
 {

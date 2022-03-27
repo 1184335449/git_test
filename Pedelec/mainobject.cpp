@@ -4,6 +4,7 @@ int mainobject_cpp = 1;
 int a=0;
 int b=0;
 
+
 MainObject::MainObject(QObject *parent) : QObject(parent)
 {
     ModuleInit();
