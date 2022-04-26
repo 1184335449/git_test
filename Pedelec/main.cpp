@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
 
     mainobject = new MainObject();
+    //aaaaaa
 
     return app.exec();
 }
