@@ -8,6 +8,7 @@ int d = 0;
 static MainObject* mainobject = nullptr;
 int main(int argc, char *argv[])
 {
+    //EEE
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QGuiApplication app(argc, argv);
 
